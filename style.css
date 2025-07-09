@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    background-color: rgb(255, 51, 0);
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: rgb(255, 187, 0);
+}
+
+img{
+    width: 800px;
+
+    
+}
+
+p{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer{
+    background-color: rgb(255, 42, 0);
+    text-align: left;
+}
+
+footer p{
+    text-align: left;
+    font-size: 20px;
+}
+
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(160, 103, 82);
+}
